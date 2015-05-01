@@ -1,0 +1,25 @@
+{
+  "name": "taginput",
+  "version": "0.0.1",
+  "homepage": "https://github.com/kevinkao/taginput",
+  "authors": [
+    "kevinkao <k6460937@gmail.com>"
+  ],
+  "main": "jquery.taginput.js",
+  "keywords": [
+    "jquery",
+    "plugin"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "jquery": "~2.1.4"
+  }
+}
